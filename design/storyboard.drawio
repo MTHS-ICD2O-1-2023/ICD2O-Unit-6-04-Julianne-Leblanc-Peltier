@@ -1,11 +1,26 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="399" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="838" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="40" y="40" width="760" height="480" as="geometry"/>
+                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="45" y="60" width="760" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                    <mxGeometry x="20" y="100" width="330" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Enter the radius in the URL params!&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;ex. at the end of the URL type: &quot;?/radius=5&quot;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="110" width="330" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;the radius of the sphere is: 5 mm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;the volume of the sphere is: 523.60mm3&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="7">
+                    <mxGeometry x="30" y="180" width="240" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mths-icd2o-1-2023.github.io/ICD2O-Unit-6-04-Julianne-Leblanc-Peltier/images/sphereformula.svg;" vertex="1" parent="7">
+                    <mxGeometry x="385" y="100" width="360" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;Volume of a Sphere using Query Strings, in JS&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="7">
+                    <mxGeometry x="20" y="50" width="370" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
