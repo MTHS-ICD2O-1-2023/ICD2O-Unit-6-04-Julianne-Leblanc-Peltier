@@ -25,7 +25,7 @@ window.onload = function () {
     // process
     const volume = 4 / 3 * Math.PI * (radius ** 3)
     //output
-    document.getElementById("radiusAnswer").innerHTML = radius + " mm<sup>3</sup> <br /><br />"
+    document.getElementById("radiusAnswer").innerHTML = radius + " mm <br />"
     document.getElementById("answer").innerHTML = "the volume of the sphere is: " + volume.toFixed(2) + "mm<sup>3</sup>"
   } else {
     document.getElementById("answer").innerHTML = "Invalid number"
